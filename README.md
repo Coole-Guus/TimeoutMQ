@@ -1,6 +1,6 @@
 # TimeoutMQ
 
-TimeoutMQ is a high-level Go library that provides a simple interface for implementing distributed timeout functionality using RabbitMQ. It allows you to easily schedule objects to be delivered after a specified timeout period in a distributed system.
+TimeoutMQ is a high-level Go library that provides a simple interface for implementing distributed timeout functionality using an AMQP broker such as RabbitMQ. It allows you to easily schedule objects to be delivered after a specified timeout period in a distributed system.
 
 ## Features
 
